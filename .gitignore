@@ -1,0 +1,4 @@
+*.xctimeline
+*/playground.xcworkspace/xcuserdata/*
+
+*/*.xcodeproj/project.xcworkspace/xcuserdata/*
