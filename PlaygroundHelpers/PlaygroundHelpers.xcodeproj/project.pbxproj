@@ -8,16 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		88F04305266565C600691FF1 /* PlaygroundHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 88F04303266565C600691FF1 /* PlaygroundHelpers.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		88F0430D266565DE00691FF1 /* Duration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88F0430B266565DE00691FF1 /* Duration.swift */; };
-		88F0430E266565DE00691FF1 /* PrintAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88F0430C266565DE00691FF1 /* PrintAddress.swift */; };
+		88F2A66F26656F410099C260 /* PrintAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88F2A66D26656F410099C260 /* PrintAddress.swift */; };
+		88F2A67026656F410099C260 /* Duration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88F2A66E26656F410099C260 /* Duration.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		88F04300266565C600691FF1 /* PlaygroundHelpers.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PlaygroundHelpers.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		88F04303266565C600691FF1 /* PlaygroundHelpers.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaygroundHelpers.h; sourceTree = "<group>"; };
 		88F04304266565C600691FF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		88F0430B266565DE00691FF1 /* Duration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Duration.swift; path = ../../Tasks.playground/Sources/Duration.swift; sourceTree = "<group>"; };
-		88F0430C266565DE00691FF1 /* PrintAddress.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PrintAddress.swift; path = ../../Tasks.playground/Sources/PrintAddress.swift; sourceTree = "<group>"; };
+		88F2A66D26656F410099C260 /* PrintAddress.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrintAddress.swift; sourceTree = "<group>"; };
+		88F2A66E26656F410099C260 /* Duration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Duration.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +52,8 @@
 			children = (
 				88F04303266565C600691FF1 /* PlaygroundHelpers.h */,
 				88F04304266565C600691FF1 /* Info.plist */,
-				88F0430B266565DE00691FF1 /* Duration.swift */,
-				88F0430C266565DE00691FF1 /* PrintAddress.swift */,
+				88F2A66E26656F410099C260 /* Duration.swift */,
+				88F2A66D26656F410099C260 /* PrintAddress.swift */,
 			);
 			path = PlaygroundHelpers;
 			sourceTree = "<group>";
@@ -137,8 +137,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				88F0430E266565DE00691FF1 /* PrintAddress.swift in Sources */,
-				88F0430D266565DE00691FF1 /* Duration.swift in Sources */,
+				88F2A66F26656F410099C260 /* PrintAddress.swift in Sources */,
+				88F2A67026656F410099C260 /* Duration.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
