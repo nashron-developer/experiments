@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:CodeWars"
+      name = "CodeWars">
+      <FileRef
+         location = "group:WriteNumberinExpandedForm2.playground">
+      </FileRef>
+      <FileRef
+         location = "group:SipinWords.playground">
+      </FileRef>
+      <FileRef
+         location = "group:FoldAnArray.playground">
+      </FileRef>
+      <FileRef
+         location = "group:SortDigitsInNumber.playground">
+      </FileRef>
+      <FileRef
+         location = "group:WriteNumberinExpandedForm.playground">
+      </FileRef>
+      <FileRef
+         location = "group:ValidBraces.playground">
+      </FileRef>
+      <FileRef
+         location = "group:PersistentBugger.playground">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:QueueAlgorithm.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PlaygroundHelpers/PlaygroundHelpers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CountingElementsInArray.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Sorting.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Tasks.playground">
+   </FileRef>
+   <FileRef
+      location = "group:CopyOnWrite.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Multithreading.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/nashron/development/ios/Experiments/Capturing.playground">
+   </FileRef>
+</Workspace>

@@ -79,28 +79,7 @@ q.async(flags: .barrier) {
 }
 
 
-class A1 {
-    var b: B
-    init(b: B) {
-        self.b = b
-    }
-    deinit {
-        print("A1")
-    }
-}
 
-class B {
-    weak var a: A1?
-    deinit {
-        print("B")
-    }
-}
-
-var b: B? = B()
-var a1: A1? = A1(b: b!)
-b?.a = a1
-b = nil
-//a1 = nil
 
 print()
 print("------ Test Array -----")
