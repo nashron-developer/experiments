@@ -25,6 +25,9 @@
       <FileRef
          location = "group:PersistentBugger.playground">
       </FileRef>
+      <FileRef
+         location = "group:GoodvsEvil.playground">
+      </FileRef>
    </Group>
    <FileRef
       location = "group:QueueAlgorithm.playground">
