@@ -28,6 +28,9 @@
       <FileRef
          location = "group:GoodvsEvil.playground">
       </FileRef>
+      <FileRef
+         location = "group:/Users/nashron/development/ios/Experiments/CodeWars/MorseDecoder.playground">
+      </FileRef>
    </Group>
    <FileRef
       location = "group:QueueAlgorithm.playground">
