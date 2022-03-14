@@ -31,6 +31,9 @@
       <FileRef
          location = "group:/Users/nashron/development/ios/Experiments/CodeWars/MorseDecoder.playground">
       </FileRef>
+      <FileRef
+         location = "group:PlayingWithDigits.playground">
+      </FileRef>
    </Group>
    <FileRef
       location = "group:QueueAlgorithm.playground">
